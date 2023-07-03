@@ -6,15 +6,15 @@ export default class Game {
   }
 
   clearAll() {
-    const el = document.querySelectorAll('.grid-item-on');
+    // const el = document.querySelectorAll('.grid-item-on');
     this._element.forEach((elem) => {
       // elem.setAttribute('src', 'img/no_goblin.png');
-      elem.classList.remove('grid-item-on')
+      elem.classList.remove('grid-item-on');
     });
   }
 
   addGoblin(position) {
-    const el = document.querySelectorAll('.grid-item');
+    // const el = document.querySelectorAll('.grid-item');
     // this._element[position].setAttribute('src', 'img/goblin.png');
     this._element[position].classList.add('grid-item-on');
   }

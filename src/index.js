@@ -2,9 +2,8 @@
 
 import getPosition from './js/app.js';
 import Game from './js/game.js';
-import "./css/game.css";
-import "./index.html";
-
+import './css/game.css';
+import './index.html';
 
 const game = new Game(document.querySelectorAll('.grid-item'));
 // console.log(game);
