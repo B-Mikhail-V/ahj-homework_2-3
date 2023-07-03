@@ -1,2 +1,2 @@
 # ahj-homework_2-3
-![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/B-Mikhail-V/https://github.com/B-Mikhail-V/ahj-homework_2-3.git/actions/workflows/web.yml/badge.svg)
